@@ -4,4 +4,4 @@ end
 
 say_hello ("Gabriela")
 
-def say_hello ()
+def say_hello (name = )
