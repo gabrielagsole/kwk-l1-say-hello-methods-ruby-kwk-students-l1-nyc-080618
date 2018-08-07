@@ -4,8 +4,8 @@ end
 
 say_hello ("Gabriela")
 
-def say_hello (name = "Ruby programmer")
+def default_arguments (name = "Ruby programmer")
   puts "Hello, #{name}"
 end
 
-say_hello 
+default_arguments 
